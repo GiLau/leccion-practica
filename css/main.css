@@ -1,0 +1,26 @@
+a {
+	text-decoration: none;
+	background: #475896;
+
+}
+header{
+
+	float: center;
+	margin: 0 0 80px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+	background: #179269;
+	border-color: #354869;
+}
+
+header{
+
+	background: #ffd3d3;
+	border-color:#2f4073;
+}
+
+
+h1, h2{
+	color:#000;
+	background: #ffd3d3;
+}
