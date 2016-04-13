@@ -1,0 +1,16 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 1 Punto. No funciona. No busca estudiantes pero si lista. No uso el esquema de arreglo de objetos.
+Errores Manejados o no tiene en consola (2 Puntos): No tiene errores de consola.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.5 Tiene las mismas funciones que hicimos en clase. Imprimio todos los elementos de array, por eso le doy 0.5.
+Comentarios (1 Punto): 0 Puntos. No tiene comentarios.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 2.5
+
+Comentarios Profesor:
+Les falta mucho para obtener un mejor puntaje. No implementaron ni siquiera la busqueda de otra manera.
+No usaron el arreglo de objetos como era el requisito.
+No comentaron.
+Por favor practiquen, el examen sera mas complejo.
+
+https://github.com/GiLau
+
